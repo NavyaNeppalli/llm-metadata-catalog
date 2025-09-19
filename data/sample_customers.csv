@@ -1,1 +1,5 @@
+customer_id,first_name,last_name,email,signup_date,purchase_amount
+1,Anita,Sharma,anita@example.com,2024-05-02,120.50
+2,Rahul,Verma,rahul.v@example.com,2024-06-10,75.00
+3,Meera,Patel,meera@example.com,2024-07-01,200.00
 
