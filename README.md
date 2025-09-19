@@ -9,7 +9,7 @@ This project extracts metadata from CSV/Parquet files and uses a local LLM (GPT4
 
 ## Tech Stack
 - Python (pandas, langchain, gpt4all)
-- Local LLM (no cloud costs!)
+- Local LLM
 - GitHub for version control
 
 ## Run Locally
