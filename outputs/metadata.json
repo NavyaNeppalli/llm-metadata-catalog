@@ -1,1 +1,16 @@
+{
+  "metadata": {
+    "row_count": 3,
+    "columns": [
+      {"name":"customer_id","dtype":"int64","null_count":0,"sample_values":[1,2,3]},
+      {"name":"first_name","dtype":"object","null_count":0,"sample_values":["Anita","Rahul","Meera"]},
+      {"name":"email","dtype":"object","null_count":0,"sample_values":["anita@example.com","rahul.v@example.com","meera@example.com"]}
+    ]
+  },
+  "descriptions": {
+    "customer_id": "customer_id (int64): No obvious PII. Sample: [1, 2, 3]",
+    "first_name": "first_name (object): Contains PII (likely). Sample: ['Anita', 'Rahul', 'Meera']",
+    "email": "email (object): Contains PII (likely). Sample: ['anita@example.com', 'rahul.v@example.com', 'meera@example.com']"
+  }
+}
 
