@@ -1,1 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+pip-wheel-metadata/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env / Secrets
+.env
+*.env
+
+# Models / large files
+models/
+*.bin
+*.ggml.*
+
+# outputs
+outputs/
 
